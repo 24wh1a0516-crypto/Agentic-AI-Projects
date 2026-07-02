@@ -1,0 +1,10 @@
+{
+  "summary": "The meeting confirmed that mobile app development is progressing on schedule, and the login feature has been completed. It was noted that the payment module requires additional testing, and Emma has been assigned to conduct this testing.",
+  "action_list": [
+    "Conduct additional testing on the payment module"
+  ],
+  "follow_up_email": {
+    "subject": "Meeting Summary and Next Steps",
+    "body": "Dear Team,\n\nThank you for participating in today's meeting. As discussed, the mobile app development is on track, and the login feature has been successfully completed. However, we need to perform additional testing on the payment module. Emma has been assigned to lead this effort.\n\nPlease ensure all necessary resources are available for the testing process. Let\u2019s reconvene next week to review the results.\n\nBest regards,\n[Your Name]"
+  }
+}

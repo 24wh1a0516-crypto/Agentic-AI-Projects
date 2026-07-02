@@ -1,0 +1,15 @@
+{
+  "ticket_fields": {
+    "customer": "Sarah Wilson",
+    "order_id": "ORD-78421",
+    "issue": "Order hasn't arrived",
+    "days_waiting": 10,
+    "sentiment": "Urgent"
+  },
+  "priority_routing": {
+    "priority": "P1",
+    "route": "shipping",
+    "why": "The customer, Sarah Wilson, has reported that her order hasn't arrived after 10 days of waiting, which signifies a long wait time. The sentiment is categorized as 'Urgent,' indicating high frustration and a need for immediate attention. Together, these factors reflect a critical issue that requires prompt resolution, warranting a P1 priority level. Additionally, the nature of the issue directly relates to delivery, thus the appropriate routing team is 'shipping.'"
+  },
+  "drafted_reply": "Hi Sarah,  \n\nI\u2019m sorry to hear that your order hasn't arrived yet; I understand how frustrating that must be after waiting for 10 days. I\u2019m currently looking into the status of your order and will provide an update as soon as possible. In the meantime, please feel free to reach out if you have any more questions.  \n\nThank you for your patience, and we appreciate your understanding during this time.  \n\nBest regards,  \nThe Support Team"
+}

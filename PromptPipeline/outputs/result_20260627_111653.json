@@ -1,0 +1,47 @@
+{
+  "stage1": {
+    "meeting_title": "Weekly Team Meeting",
+    "date": null,
+    "participants": [
+      "Alex",
+      "Emma",
+      "Noah"
+    ],
+    "topics_discussed": [
+      "Mobile app development",
+      "Login feature",
+      "Payment module"
+    ],
+    "key_points": [
+      "Mobile app development is on schedule.",
+      "Login feature has been completed.",
+      "Payment module requires additional testing."
+    ]
+  },
+  "stage2": {
+    "decisions": [
+      "Mobile app development is on schedule.",
+      "Login feature has been completed."
+    ],
+    "action_items": [
+      {
+        "task": "Conduct additional testing for the payment module",
+        "owner": "Noah",
+        "due_date": null
+      }
+    ],
+    "risks_or_blockers": [
+      "Payment module requires additional testing."
+    ]
+  },
+  "stage3": {
+    "summary": "The meeting focused on the progress of the mobile app development, confirming that it is on schedule and that the login feature has been completed. However, it was noted that the payment module requires additional testing, which has been assigned to Noah.",
+    "action_list": [
+      "Conduct additional testing for the payment module (Owner: Noah)"
+    ],
+    "follow_up_email": {
+      "subject": "Meeting Summary and Action Items",
+      "body": "Dear Team,\n\nThank you for your participation in today's meeting. We are pleased to note that the mobile app development is on schedule and that the login feature has been successfully completed. However, please be aware that the payment module requires additional testing, which Noah will be taking care of.\n\nBest regards,\n\n[Your Name]"
+    }
+  }
+}

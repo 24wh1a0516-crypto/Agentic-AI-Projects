@@ -1,0 +1,8 @@
+{
+  "summary": "The meeting did not result in any decisions, action items, or identified risks or blockers. Participants engaged in discussions but did not conclude any specific tasks or address potential challenges.",
+  "action_list": [],
+  "follow_up_email": {
+    "subject": "Meeting Summary and Next Steps",
+    "body": "Dear Team,\n\nThank you for your participation in the meeting. During our discussion, we did not reach any specific decisions or identify any immediate action items. Please feel free to share any further thoughts or topics that we may need to address in our next meeting.\n\nBest regards,\n[Your Name]"
+  }
+}

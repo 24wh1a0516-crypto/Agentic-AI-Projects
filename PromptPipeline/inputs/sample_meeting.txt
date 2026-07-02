@@ -1,0 +1,42 @@
+Meeting: Q3 Product Roadmap Planning
+Date: June 25, 2026
+Attendees: Sarah (PM), James (Engineering Lead), Priya (Design), Tom (QA)
+
+Sarah: Let's kick off. Today we're aligning on Q3 priorities.
+
+James: We need to finish the authentication refactor first — it's blocking the new dashboard work.
+
+Priya: Agreed. I've completed the dashboard wireframes. Once auth is done I can start handoff.
+
+Sarah: Okay, so auth refactor is our top priority. James, can your team wrap that up by July 15?
+
+James: Yes, July 15 is doable if we don't get pulled into other issues.
+
+Tom: I'll need at least a week for QA after the auth refactor. So we're looking at July 22 for sign-off.
+
+Sarah: Perfect. Let's also talk about the mobile app. Marketing wants a beta by end of Q3.
+
+Priya: I can have mobile designs ready by July 20.
+
+James: Mobile development can start once designs are ready. We'll need 6 weeks, so that puts us at September 1.
+
+Sarah: That's cutting it close. End of Q3 is September 30, so we have some buffer.
+
+Tom: Mobile QA will need 2 weeks minimum. I'll flag now that if we slip on auth, mobile beta is at risk.
+
+Sarah: Noted. So blockers are: auth refactor timeline slip and QA capacity if both workstreams overlap.
+
+James: I'll also need one more backend engineer. Priya can you raise that with HR?
+
+Priya: Sure, I'll follow up with HR by Friday.
+
+Sarah: Great. Let's also schedule a mid-Q3 check-in on July 30.
+
+Action items recap:
+- James: Complete auth refactor by July 15
+- Tom: QA sign-off on auth by July 22
+- Priya: Deliver dashboard design handoff after auth, mobile designs by July 20
+- Priya: Raise backend engineer request with HR by Friday
+- Sarah: Schedule July 30 mid-Q3 check-in
+
+Next meeting: July 10 sync.

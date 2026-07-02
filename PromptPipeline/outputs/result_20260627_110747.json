@@ -1,0 +1,13 @@
+{
+  "summary": "The meeting concluded with the decision to set the beta release for next Friday, confirming that the backend APIs are complete and ready for testing. The QA team is scheduled to begin testing tomorrow. Action items were assigned, including finishing the frontend dashboard and providing screenshots to marketing.",
+  "action_list": [
+    "Finish the frontend dashboard due in five days.",
+    "Provide screenshots to marketing due Thursday.",
+    "Handle release notes assigned to Alice due before Friday.",
+    "Discuss informing enterprise customers by the next meeting."
+  ],
+  "follow_up_email": {
+    "subject": "Meeting Summary and Action Items",
+    "body": "Dear Team,\n\nThank you for attending the meeting. Here is a summary of our key decisions and action items:\n\n- Beta release is set for next Friday.\n- Backend APIs are complete and ready for testing; testing will begin tomorrow.\n\nAction Items:\n1. Finish the frontend dashboard (due in five days).\n2. Provide screenshots to marketing (due Thursday).\n3. Handle release notes (assigned to Alice, due before Friday).\n4. Discuss informing enterprise customers (by next meeting).\n\nPlease ensure that your tasks are on track, and let's reconvene to address any updates or concerns. \n\nBest regards,\n[Your Name]"
+  }
+}
